@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CeraPro-Bold.ttf",
+      "sha1": "80fa01ae2915d40d92852b96ffad4484bc95ed3a"
+    },
+    {
+      "path": "src/assets/fonts/CeraPro-Regular.ttf",
+      "sha1": "7e036889479352aeb1717cf34c5be48b831d6795"
+    }
+  ]
+}
